@@ -24,4 +24,6 @@ More information at: https://archive.ics.uci.edu/ml/datasets/Post-Operative+Pati
 
 The code (post-operative.arff, and instance.arff) is modified for WEKA (Waikato Environment for Knowledge Analysis).
 
+![WEKA screenshot](./wekaguichooserwindows.png)
+
 More information at: http://www.dfki.de/~kipp/seminar_ws0607/reports/RossenDimov.pdf
